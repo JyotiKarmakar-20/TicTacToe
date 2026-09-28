@@ -5,5 +5,5 @@ A simple and interactive **Tic Tac Toe game** developed using **HTML, CSS, and J
 ### Tech Stack
 
 * **HTML5**
-* **CSS3**
+* **CSS**
 * **JavaScript**
